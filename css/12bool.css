@@ -264,9 +264,6 @@
 /* ----Large breakpoint---- */
 
 @media screen and (max-width: 1200px) {
-    body{
-        background-color: lightblue;
-    }
 
     /* ----Large column dimension---- */
 
@@ -386,9 +383,6 @@
 /* ----Medium breakpoint---- */
 
 @media screen and (max-width: 992px) {
-    body{
-        background-color: lightskyblue;
-    }
 
     /* ----Medium column dimension---- */
 
@@ -508,9 +502,6 @@
 /* ----Small breakpoint---- */
 
 @media screen and (max-width: 768px) {
-    body{
-        background-color: blue;
-    }
 
     /* ----Small column dimension---- */
 
@@ -630,9 +621,6 @@
 /* ----x-Small breakpoint---- */
 
 @media screen and (max-width: 576px) {
-    body{
-        background-color: purple;
-    }
 
     /* ----X-Small column dimension---- */
 
