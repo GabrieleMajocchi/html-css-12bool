@@ -3,3 +3,27 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.flex{
+    display: flex;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.row{
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+[class*="col-"] {
+    flex: 0 0 auto;
+}
+
+.col{
+    flex-grow: 1;
+    flex-basis: 0;
+    max-width: 100%;
+}
+
