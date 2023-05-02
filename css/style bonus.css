@@ -1,17 +1,10 @@
-.top-half{
-    background-color: #b63b3f;
-    /* height: 60vh; */
-    width: 100%;
-}
-
-.bottom-half{
-    background-color: #961d24;
-    /* height: 40vh; */
-    width: 100%;
+body{
+    background-color: black;
 }
 
 main{
     width: 1200px;
+    background-image: url(../bonus/Sfondo2.png);
     background-repeat: no-repeat;
     background-size: 726px;
     background-position: top;
