@@ -10,10 +10,6 @@ main{
     background-position: top;
 }
 
-.top-half{
-    opacity: 90%;
-}
-
 [class*="col"] {
     height: 1rem;
 }
