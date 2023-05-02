@@ -1,0 +1,10 @@
+.row{
+    text-align: center;
+}
+
+[class*="col-"] {
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    padding: 1rem 0;
+}
