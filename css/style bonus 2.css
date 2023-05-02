@@ -1,13 +1,37 @@
 body{
-    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    min-width: 830px;
+}
+
+.gamebox{
+    position: absolute;
+    background-image: url(../bonus/GameBox.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1400px;
+    height: 800px;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.screen{
+    margin-left: 2.1rem;
+    background-color: #047bb3;
+    height: 570px;
+    width: 1100px;
 }
 
 main{
-    width: 1200px;
     background-image: url(../bonus/Sfondo.png);
     background-repeat: no-repeat;
-    background-size: 726px;
-    background-position: top;
+    background-size: 695px;
+    background-position: 50% -16%;
+    height: 100%;
+    width: 100%;
 }
 
 [class*="col"] {
