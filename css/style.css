@@ -2,9 +2,19 @@
     text-align: center;
 }
 
-[class*="col-"] {
+[class*="col"] {
     background-color: #006cfa;
     border: 1px solid white;
     color: white;
     padding: 1rem 0;
+}
+
+.greenbox{
+    background-color: #01e165;
+    border: 1px solid #006cfa;
+}
+
+.pad1-hor{
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
