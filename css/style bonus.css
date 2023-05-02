@@ -1,0 +1,98 @@
+.top-half{
+    background-color: #b63b3f;
+    /* height: 60vh; */
+    width: 100%;
+}
+
+.bottom-half{
+    background-color: #961d24;
+    /* height: 40vh; */
+    width: 100%;
+}
+
+main{
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: 726px;
+    background-position: top;
+}
+
+.top-half{
+    opacity: 90%;
+}
+
+[class*="col"] {
+    height: 1rem;
+}
+
+.half{
+    height: 0.5rem;
+}
+
+.bg-darkred{
+    background-color: #712224;
+}
+
+.bg-yellow{
+    background-color: #f1c252;
+}
+
+.bg-blackred{
+    background-color: #501b1d;
+}
+
+.bg-red{
+    background-color: #b30303;
+}
+
+.bg-redd{
+    background-color: #910202;
+}
+
+.bg-blu{
+    background-color: #016d9f;
+}
+
+.bg-lightblu{
+    background-color: #047bb3;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-grey{
+    background-color: #d9dbd8;
+}
+
+.bg-lightgrey{
+    background-color: #ececec;
+}
+
+.bg-blackgrey{
+    background-color: #b7b7b7;
+}
+
+.bg-lightblack{
+    background-color: #232323;
+}
+
+.bg-ocra{
+    background-color: #75582a;
+}
+
+.bg-lightocra{
+    background-color: #95713a;
+}
+
+.bg-sand{
+    background-color: #bc9457;
+}
+
+.bg-darksand{
+    background-color: #866736;
+}
+
+.bg-shadow{
+    background-color: #5e0c12;
+}
