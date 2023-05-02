@@ -18,3 +18,7 @@
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
+div.container.white .row .col{
+    background-color: white;
+}
